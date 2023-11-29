@@ -2,9 +2,9 @@ nama_buah = ['pepaya', 'mangga', 'pisang', 'durian', 'jambu']
 
 def list_buah(buah):
     duplikasi = []
-    for buah in nama_buah:
-        duplikasi.append(buah)
-        duplikasi.append(buah)
+    for i in buah:
+        duplikasi.append(i)
+        duplikasi.append(i)
 
     return duplikasi
 

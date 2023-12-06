@@ -25,8 +25,8 @@ def segitigasamasisi(sisi,alas,tinggi):
 def trapesiumsamakaki(atas, bawah, miring, tinggi):
     luas = atas + bawah / 2 * tinggi
     keliling = miring * 2 + atas + bawah
-    print('jadi luas trapesium sama sisi yang sisi dan tinggi nya', atas, bawah ,'dan', tinggi, 'adalah', luas)
-    print('jadi keliling trapesium sama sisi yang sisinya', atas, miring, bawah, miring, 'adalah', keliling)
+    print('jadi luas trapesium sama kaki yang sisi dan tinggi nya', atas, bawah ,'dan', tinggi, 'adalah', luas)
+    print('jadi keliling trapesium kaki sisi yang sisinya', atas, miring, bawah, miring, 'adalah', keliling)
 
 def belahketupat(sisi, dia1, dia2):
     luas = 1/2 * dia1 * dia2

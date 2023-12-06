@@ -20,22 +20,22 @@ def pangkat(bil1, bil2):
     print('hasil pemangkatan dari',bil1,'^',bil2,'=',hasil)
 
 def akar(bil1):
-    hasil = math.sqrt
-    print('hasil akar dari',bil1,'=',hasil)
+    hasil = math.sqrt(bil1)
+    print('hasil dari akar',bil1,'=',hasil)
 
 def log(bil1):
     hasil = math.log(bil1)
-    print('hasil log dari',bil1,'=',hasil)
+    print('hasil dari log',bil1,'=',hasil)
 
 def sin(bil1):
     hasil = math.sin(bil1)
-    print('hasil sin',bil1,'=',hasil)
+    print('hasil dari sin',bil1,'=',hasil)
 
 def cos(bil1):
     hasil = math.cos(bil1)
-    print('hasil cos',bil1,'=',hasil)
+    print('hasil dari cos',bil1,'=',hasil)
 
 def tan(bil1):
     hasil = math.tan(bil1)
-    print('hasil tan ',bil1, '=',hasil)
+    print('hasil dari tan',bil1, '=',hasil)
 

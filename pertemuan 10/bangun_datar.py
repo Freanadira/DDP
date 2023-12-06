@@ -31,11 +31,11 @@ def trapesiumsamakaki(atas, bawah, miring, tinggi):
 def belahketupat(sisi, dia1, dia2):
     luas = 1/2 * dia1 * dia2
     keliling = sisi * 4
-    print('jadi luas segitiga sama sisi yang diagonalnya', dia1, 'dan', dia2, 'adalah', luas)
-    print('jadi keliling segitiga sama sisi yang sisinya', sisi, 'adalah', keliling)
+    print('jadi luas belah ketupat yang diagonalnya', dia1, 'dan', dia2, 'adalah', luas)
+    print('jadi keliling belah ketupat yang sisinya', sisi, 'adalah', keliling)
 
 def jajargenjang(atasbawah, kirikanan, tinggi):
     luas = 1/2 * atasbawah * tinggi
     keliling = atasbawah + kirikanan * 2
-    print('jadi luas segitiga sama sisi yang alas dan tinggi nya', atasbawah,'dan', tinggi, 'adalah', luas)
-    print('jadi keliling segitiga sama sisi yang sisinya', atasbawah,  kirikanan, atasbawah,  kirikanan, 'adalah', keliling)
+    print('jadi luas jajargenjang yang alas dan tinggi nya', atasbawah,'dan', tinggi, 'adalah', luas)
+    print('jadi keliling jajargenjang yang sisinya', atasbawah,  kirikanan, atasbawah,  kirikanan, 'adalah', keliling)

@@ -5,6 +5,7 @@ lingkaran(7)
 segitigasamasisi(5,6,8)
 trapesiumsamakaki(2,6,4,8)
 belahketupat(2,4,6)
+jajargenjang(8, 5, 6)
 
 from perhitungan import *
 tambah(2,3)

@@ -103,4 +103,4 @@ button_hitung = ttk.Button(halaman_utama, text="Hitung", command=hitung_tanggal_
 button_hitung.grid(row=4, column=0, columnspan=2, pady=10)
 
 # Menjalankan aplikasi
-halaman_selamat_datang.mainloop()
+window.mainloop()
